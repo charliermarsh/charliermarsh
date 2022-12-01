@@ -13,5 +13,3 @@ You can find me on:
 - [Twitter (@charliermarsh)](https://twitter.com/charliermarsh)
 - [GitHub (@charliermarsh)](https://github.com/charliermarsh)
 - [Notion](https://notes.crmarsh.com/)
-
-I live in Brooklyn, NY 🗽
