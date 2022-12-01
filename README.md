@@ -6,7 +6,7 @@ My goal is to make the Python ecosystem more productive by building [faster deve
 
 I was most recently a staff software engineer at [Spring Discovery](https://www.springdiscovery.com/). Before that, I was a senior software engineer at [Khan Academy](https://www.khanacademy.org/).
 
-The best way to track my work is to follow me on [Twitter (@charliermarsh)](https://twitter.com/charliermarsh).
+The best way to track my work is to follow me on [Twitter (@charliermarsh)](https://twitter.com/charliermarsh). The best way to get in touch is to DM me on [Twitter (@charliermarsh)](https://twitter.com/charliermarsh).
 
 You can find me on:
 
