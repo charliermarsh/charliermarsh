@@ -1,6 +1,6 @@
 ### Hi, I’m [Charlie](https://twitter.com/charliermarsh).
 
-I’m building high-performance developer tools for Python, starting with ⚡ [Ruff](https://github.com/charliermarsh/ruff) ⚡, an extremely fast Python linter and code transformation toolchain written in Rust.
+I’m building @astral-sh: high-performance developer tools for Python, starting with ⚡ [Ruff](https://github.com/charliermarsh/ruff) ⚡, an extremely fast Python linter and code transformation toolchain written in Rust.
 
 My goal is to make the Python ecosystem more productive by building [faster developer tools](https://notes.crmarsh.com/python-tooling-could-be-much-much-faster).
 
