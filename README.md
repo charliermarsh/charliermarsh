@@ -12,4 +12,5 @@ You can find me on:
 
 - [Twitter (@charliermarsh)](https://twitter.com/charliermarsh)
 - [GitHub (@charliermarsh)](https://github.com/charliermarsh)
+- [Discord](https://discord.gg/c9MhzV8aU5)
 - [Notion](https://notes.crmarsh.com/)
