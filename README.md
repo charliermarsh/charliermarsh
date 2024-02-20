@@ -1,6 +1,6 @@
 ### Hi, I’m [Charlie](https://twitter.com/charliermarsh).
 
-I’m building [Astral](https://astral.sh): high-performance developer tools for Python, starting with ⚡ [Ruff](https://github.com/charliermarsh/ruff) ⚡, an extremely fast Python linter and code transformation toolchain written in Rust.
+I’m building [Astral](https://astral.sh): high-performance developer tools for the Python ecosystem, starting with [Ruff](https://github.com/charliermarsh/ruff) and [uv](https://github.com/astral-sh/uv).
 
 My goal is to make the Python ecosystem more productive by building [faster developer tools](https://notes.crmarsh.com/python-tooling-could-be-much-much-faster).
 
@@ -12,5 +12,5 @@ You can find me on:
 
 - [Twitter (@charliermarsh)](https://twitter.com/charliermarsh)
 - [GitHub (@charliermarsh)](https://github.com/charliermarsh)
-- [Discord](https://discord.gg/c9MhzV8aU5)
+- [Discord](https://discord.gg/astral-sh)
 - [Notion](https://notes.crmarsh.com/)
